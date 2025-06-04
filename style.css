@@ -3,7 +3,7 @@
 -------------------- */
 
 :root {
-  --theme-color: #511;
+  --theme-color: #ADD8E6;
 }
 
 * {
@@ -23,6 +23,7 @@ body {
 heml,body{
         background-color:#a71;
 }
+
 
 /* --------------------
         見出し
