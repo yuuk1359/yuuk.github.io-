@@ -41,6 +41,9 @@ h1, h2, h3 {
 html,a {
   color:#5f9ea0; text-decoration: none;
 }
+a:focus{
+        outline:1px#800000;
+}
 
 /* --------------------
         リスト
