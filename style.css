@@ -3,7 +3,7 @@
 -------------------- */
 
 :root {
-  --theme-color: #ADD8E6;
+  --theme-color: #800000;
 }
 
 * {
@@ -38,9 +38,8 @@ h1, h2, h3 {
         リンク
 -------------------- */
 
-a {
-  color: var(--theme-color);
-  text-decoration: none;
+html,a {
+  color:#5f9ea0;
 }
 
 /* --------------------
